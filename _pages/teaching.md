@@ -23,8 +23,9 @@ nav_order: 5
 - **CS 213** Data Structures and Algorithms, Spring 2021
 - **CS 228** Logic for Computer Science, Autumn 2021
 - **CS 419** Introducing to Machine Learning, Spring 2022
+- **EE 325** Probability and Random Processes, Autumn 2021
+- **EE 621** Markov Chains and Queueing Systems, Spring 2021
 - **EE 610** Image Processing, Autumn 2022
-- **EE 621** Markov Chains and Queueing Systems, Autumn 2021
 - **IE 643** Deep Learning - Theory and Practice, Autumn 2023
 
 ---

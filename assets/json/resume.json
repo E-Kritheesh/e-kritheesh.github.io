@@ -1,77 +1,94 @@
 {
-  "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
-  },
+  "basics": {},
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Jaguar Land Rover (JLR TBSI)",
+      "position": "Graduate Charging Software",
+      "url": "https://www.jlr.com/",
+      "startDate": "2024",
+      "endDate": "Present",
+      "summary": "Part of the Energy Platform team, developing Embedded S/W for Battery Management & Charging Controllers",
       "highlights": [
-        "Relativity"
+        "Embedded drivers", "In-Vehicle Communication (CAN, I2C)", "V2G Security" 
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
+      "institution": "Indian Institute of Technology Bombay, India",
+      "url": "https://www.iitb.ac.in/",
+      "area": "Electrical Engineering",
+      "studyType": "BTech (with Honours)",
+      "startDate": "2020",
+      "endDate": "2024",
+      "score": "8.84",
       "courses": [
-        "Theory of Relativity"
+        "Minor in Computer Science & Engineering"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "National Talent Search Examination (NTSE) Scholar",
+      "date": "2018",
+      "url": "https://ncert.nic.in/national-talent-examination.php",
+      "awarder": "NCERT, Central Board of Secondary Education",
+      "summary": "Awarded to top 1000 students across India. Provides scholarship for six years of education during the senior secondary classes and the undergraduate degree"
     }
   ],
   "certificates": [],
   "publications": [],
-  "skills": [],
-  "languages": [
+  "skills": [
     {
-      "language": "German",
-      "fluency": "Native speaker"
+      "name": "Build Tools and Debugging",
+      "keywords": "Keil, TI Code Composer Studio, TASKING toolset, Lauterbach Trace32"
     },
     {
-      "language": "English",
-      "fluency": "Fluent"
+      "name": "Simulation",
+      "keywords": "Quartus, GNU Radio, NgSpice, Simulink"
+    },
+    {
+      "name": "Version Control",
+      "keywords": "Git, JFrog Artifactory"
     }
   ],
-  "interests": [],
+  "languages": [
+    {
+      "language": "Embedded C",
+      "fluency": "Proficient"
+    },
+    {
+      "language": "C++",
+      "fluency": "Proficient"
+    },
+    {
+      "language": "Assembly",
+      "fluency": "Proficient"
+    },
+    {
+      "language": "Python",
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "Java",
+      "fluency": "Beginner"
+    },
+    {
+      "language": "Rust",
+      "fluency": "Beginner"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Security",
+      "keywords": "Hardware & Systems Security, Cryptography"
+    },
+    {
+      "name": "Embedded Systems",
+      "keywords": "Automotive Drivers, Scheduling & RTOS, V2X Communication"
+    }
+  ],
   "references": [],
   "projects": []
 }
